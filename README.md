@@ -1,9 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Serverless Music Streaming App - README</title>
-</head>
-<body>
+
 
    <h1>Serverless Music Streaming App (AWS S3 + Lambda + DynamoDB)</h1>
 
