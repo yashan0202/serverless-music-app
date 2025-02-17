@@ -45,6 +45,3 @@
         <li>Integrate AI-based music recommendations.</li>
     </ul>
     <p><strong>Project Status:</strong> Ongoing Development 🚀</p>
-
-</body>
-</html>
